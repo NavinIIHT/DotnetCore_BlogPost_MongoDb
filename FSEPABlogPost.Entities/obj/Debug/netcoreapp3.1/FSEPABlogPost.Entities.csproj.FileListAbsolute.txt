@@ -1,0 +1,8 @@
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\bin\Debug\netcoreapp3.1\FSEPABlogPost.Entities.deps.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\bin\Debug\netcoreapp3.1\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp3.1\FSEPABlogPost.Entities.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp3.1\FSEPABlogPost.Entities.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp3.1\FSEPABlogPost.Entities.AssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\bin\Debug\netcoreapp3.1\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp3.1\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp3.1\FSEPABlogPost.Entities.pdb

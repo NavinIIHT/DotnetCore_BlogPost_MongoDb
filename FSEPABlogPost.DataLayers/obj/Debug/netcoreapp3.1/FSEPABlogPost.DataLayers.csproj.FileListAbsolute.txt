@@ -1,0 +1,11 @@
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\bin\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.deps.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\bin\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\obj\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\obj\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\obj\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.AssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\bin\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\bin\Debug\netcoreapp3.1\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\bin\Debug\netcoreapp3.1\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\obj\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.csproj.CopyComplete
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\obj\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.DataLayers\obj\Debug\netcoreapp3.1\FSEPABlogPost.DataLayers.pdb

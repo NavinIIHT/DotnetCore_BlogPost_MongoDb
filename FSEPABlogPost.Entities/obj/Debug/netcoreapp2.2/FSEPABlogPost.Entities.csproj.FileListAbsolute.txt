@@ -1,0 +1,45 @@
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.deps.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.deps.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csprojAssemblyReference.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.deps.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csprojAssemblyReference.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfoInputs.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfo.cs
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.deps.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfo.cs
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.deps.json
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.AssemblyInfo.cs
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost.Entities\obj\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb

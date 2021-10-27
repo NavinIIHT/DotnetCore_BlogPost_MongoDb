@@ -1,0 +1,394 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Test\\FSEPABlogPost.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.BusinessLayers\\FSEPABlogPost.BusinessLayers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.BusinessLayers\\FSEPABlogPost.BusinessLayers.csproj",
+        "projectName": "FSEPABlogPost.BusinessLayers",
+        "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.BusinessLayers\\FSEPABlogPost.BusinessLayers.csproj",
+        "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.BusinessLayers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uma Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj"
+              },
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj",
+        "projectName": "FSEPABlogPost.DataLayers",
+        "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj",
+        "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uma Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj",
+        "projectName": "FSEPABlogPost.Entities",
+        "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj",
+        "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uma Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Test\\FSEPABlogPost.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Test\\FSEPABlogPost.Test.csproj",
+        "projectName": "FSEPABlogPost.Test",
+        "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Test\\FSEPABlogPost.Test.csproj",
+        "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uma Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost\\FSEPABlogPost.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost\\FSEPABlogPost.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Json.Net": {
+              "target": "Package",
+              "version": "[1.0.23, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost\\FSEPABlogPost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost\\FSEPABlogPost.csproj",
+        "projectName": "FSEPABlogPost",
+        "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost\\FSEPABlogPost.csproj",
+        "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Uma Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
+            "projectReferences": {
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.BusinessLayers\\FSEPABlogPost.BusinessLayers.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.BusinessLayers\\FSEPABlogPost.BusinessLayers.csproj"
+              },
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.DataLayers\\FSEPABlogPost.DataLayers.csproj"
+              },
+              "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj": {
+                "projectPath": "D:\\IIHT DATA\\Dotnet_FSE_PA_Blog_Post-master\\FSEPABlogPost.Entities\\FSEPABlogPost.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

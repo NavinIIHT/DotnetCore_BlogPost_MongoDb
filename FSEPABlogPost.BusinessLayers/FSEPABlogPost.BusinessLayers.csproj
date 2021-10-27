@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FSEPABlogPost.DataLayers\FSEPABlogPost.DataLayers.csproj" />
+    <ProjectReference Include="..\FSEPABlogPost.Entities\FSEPABlogPost.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

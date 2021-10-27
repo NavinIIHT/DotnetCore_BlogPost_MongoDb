@@ -1,0 +1,123 @@
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.deps.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.dev.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorTargetAssemblyInfo.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CopyComplete
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.deps.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.dev.json
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cs
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorTargetAssemblyInfo.cache
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CopyComplete
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.dll
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+C:\Users\KUMARUMA\source\repos\FSEPABlogPost_Master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.genruntimeconfig.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.deps.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.dev.json
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.pdb
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.pdb
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csprojAssemblyReference.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfoInputs.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfo.cs
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CoreCompileInputs.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cs
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorTargetAssemblyInfo.cache
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CopyComplete
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.dll
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+D:\IIHT\FSEPABlogPost_Master-master_no_testcase_utilites\FSEPABlogPost_Master-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.genruntimeconfig.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.deps.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.dev.json
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csprojAssemblyReference.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfoInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfo.cs
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CoreCompileInputs.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cs
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorTargetAssemblyInfo.cache
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CopyComplete
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.dll
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+C:\Users\KUMARUMA\Documents\GitHub\FSEPABlogPost_Master-master-clean-code\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.genruntimeconfig.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\appsettings.json
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.deps.json
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.json
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.runtimeconfig.dev.json
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.BusinessLayers.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.DataLayers.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\bin\Debug\netcoreapp2.2\FSEPABlogPost.Entities.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.AssemblyReference.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfoInputs.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.AssemblyInfo.cs
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorAssemblyInfo.cs
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.RazorTargetAssemblyInfo.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.dll
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.pdb
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.genruntimeconfig.cache
+D:\IIHT DATA\Dotnet_FSE_PA_Blog_Post-master\FSEPABlogPost\obj\Debug\netcoreapp2.2\FSEPABlogPost.csproj.CopyComplete
